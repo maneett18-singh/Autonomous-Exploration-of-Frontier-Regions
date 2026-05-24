@@ -1,7 +1,8 @@
 ## **Videos**
-
-- [camera.mp4](https://drive.google.com/file/d/1AaV7YE8Q1G4Fb7eU6TS2__y3EIl3stK9/view?usp=drive_link)
-- [exploration_final_video(2).mp4](https://drive.google.com/file/d/1n1p2rFSFI5GfZwu6ZfuZdyWLpFBoRnaI/view?usp=drive_link)
+- [camera.mp4]
+<video controls width="100%" src="https://drive.google.com/file/d/1AaV7YE8Q1G4Fb7eU6TS2__y3EIl3stK9/view?usp=drive_link"></video>
+- [exploration_final_video(2).mp4]
+<video controls width="100%" src="https://drive.google.com/file/d/1n1p2rFSFI5GfZwu6ZfuZdyWLpFBoRnaI/view?usp=drive_link"></video>
 
 # **Autonomous Exploration of Frontier Regions**
 
