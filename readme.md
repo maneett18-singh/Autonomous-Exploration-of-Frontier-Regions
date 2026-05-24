@@ -1,6 +1,10 @@
 ## **Videos**
 - [camera.mp4]
-<video controls width="100%" src="https://github.com/user-attachments/assets/9811c863-792f-4060-b8f8-43f9780eb03b"></video>
+
+
+https://github.com/user-attachments/assets/bfcaf1ca-c7cf-4a5b-9492-19b4aa81b13b
+
+
 - [exploration_final_video(2).mp4]
 <img width="800" height="450" alt="exploration_final_video2-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/71872979-d9cb-41d4-a403-af2aa7b890d7" />
 
