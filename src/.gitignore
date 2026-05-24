@@ -1,0 +1,5 @@
+install/turtlebot4_pkg/share/turtlebot4_pkg/__pycache__/
+install/turtlebot4_pkg/share/turtlebot4_pkg/launch_file.py
+log/build_*
+/videos
+/video
