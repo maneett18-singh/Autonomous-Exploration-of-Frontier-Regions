@@ -1,12 +1,7 @@
 ## **Videos**
 
-<video controls width="100%" src="src/video/camera.mp4">
-  Your browser does not support the video tag. [camera.mp4](src/video/camera.mp4)
-</video>
-
-<video controls width="100%" src="src/video/exploration_final_video(2).mp4">
-  Your browser does not support the video tag. [exploration_final_video(2).mp4](src/video/exploration_final_video(2).mp4)
-</video>
+- [camera.mp4](src/video/camera.mp4)
+- [exploration_final_video(2).mp4](src/video/exploration_final_video(2).mp4)
 
 # **Autonomous Exploration of Frontier Regions**
 
