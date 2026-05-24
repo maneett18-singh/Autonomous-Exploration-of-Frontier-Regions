@@ -1,7 +1,12 @@
 ## **Videos**
 
-- [camera.mp4](src/video/camera.mp4)
-- [exploration_final_video(2).mp4](src/video/exploration_final_video(2).mp4)
+<video controls width="100%" src="src/video/camera.mp4">
+  Your browser does not support the video tag. [camera.mp4](src/video/camera.mp4)
+</video>
+
+<video controls width="100%" src="src/video/exploration_final_video(2).mp4">
+  Your browser does not support the video tag. [exploration_final_video(2).mp4](src/video/exploration_final_video(2).mp4)
+</video>
 
 # **Autonomous Exploration of Frontier Regions**
 
@@ -47,9 +52,3 @@ ros2 launch turtlebot4_pkg launch_file.py
 
 Videos demonstrating the project are available in the `videos` folder.
 
-# Group - D
-
-Authors:
-
-1. Maneet Singh
-2. Rishabh Umashankar
